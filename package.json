@@ -1,0 +1,14 @@
+{
+  "name": "chat-bot-whatsapp",
+  "version": "1.0.0",
+  "description": "chatBot para Shoes Couture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bran Marquez",
+  "license": "MIT",
+  "dependencies": {
+    "@open-wa/wa-automate": "^3.0.6"
+  }
+}
